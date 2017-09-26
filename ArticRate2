@@ -1,0 +1,97 @@
+<body>
+  <head>
+    <title>ArticRate! - The best place to find the best articles and contributing writers by submitting & rating their articles.</title>
+  </head>
+  
+  <div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 py-4">
+          <h2>
+            ArticRate!
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    Submit and rate an article link to help readers and writers to find and to spread the best content.</br>
+    <div class="row">
+      <input type="text" class="form-control col col-sm-4" name="article-url" placeholder="Enter article link">
+      <input type="text" class="form-control col col-sm-2" name="article-rating" placeholder="Rating out of 10">
+      <button type="button" class="btn-primary">Submit!</button>
+    </div></br>
+  </div>
+
+  <div class="col">
+    <p>
+        <a href="https://theoutline.com/post/2304/netflix-microsoft-and-google-just-quietly-changed-how-the-web-works">
+          Netflix, Microsoft, and Google Just Quietly Changed How The Web Works (7.83/10)(43)</br> 
+          theoutline.com
+        </a>
+    </p>
+
+    <p>  
+      <a href="https://www.buzzfeed.com/bensmith/theres-blood-in-the-water-in-silicon-valley?utm_term=.yo6ZR5B44#.srkZaVXLL">
+        There's Blood In The Water In Silicon Valley (4.34/10)(423)</br>
+        buzzfeed.com
+      </a>
+    </p>
+
+    <p>  
+      <a href="https://paidpost.nytimes.com/northern-trust/more-women-take-on-role-of-cfo-at-home.html?tbs_nyt=2017-sept-nytoffsite_pocket&cpv_dsm_id=13969358">
+        More Women Take on Role of CFO — at Home (6.84/10)(543)</br>
+        paidpost.nytimes.com
+      </a>
+    </p>
+
+    <p>
+      <a href="https://www.quicksprout.com/2017/02/15/7-tools-for-generating-infinite-content-ideas-for-your-blog/">
+        7 Tools for Generating Infinite Content Ideas for Your Blog (9.32/10)(4)</br>
+        quicksprout.com
+      </a>
+    </p>
+
+    <p> 
+      <a href="https://moz.com/blog/local-content-building-geo-topical-authority">
+        The Best Types of Content for Local Businesses: Building Geo-Topical Authority (5.51/10)(243)</br>
+        moz.com
+      </a>
+    </p>
+
+    <p> 
+      <a href="https://moz.com/blog/blog-post-ideas-whiteboard-friday">
+        Blog Post Ideas: Maximize Your Reach with the Right Topics - Whiteboard Friday (9.37/10)(23)</br>
+        moz.com
+      </a>
+    </p>
+
+    <p>  
+      <a href="http://contentmarketinginstitute.com/2017/01/worthless-words-improve-experience/">
+        15+ Worthless Words to Cut to Improve Your Readers’ Experience (9.23/10)(73)</br>
+        contentmarketinginstitute.com
+      </a>
+    </p>
+
+    <p>  
+      <a href="https://www.searchenginejournal.com/product-page-seo/195415/">
+        16 Dos & Don’ts of Product Page SEO (5.24/10)(143)</br>
+        searchenginejournal.com
+      </a>
+    </p>
+  </div>
+
+  <div class="col">
+    Get the best content on the internet. We sent you the highest rated articles once a week.</br>
+    <div class="row">
+      <input type="text" class="form-control col" name="email" placeholder="Enter your email">
+      <button type="button" class="btn-success">Subscribe!</button>
+      <div class="col"></div>
+    </div>
+  </div>
+
+  <div class="col">  
+    </br></br>© ArticRate
+  </div>
+</body>
